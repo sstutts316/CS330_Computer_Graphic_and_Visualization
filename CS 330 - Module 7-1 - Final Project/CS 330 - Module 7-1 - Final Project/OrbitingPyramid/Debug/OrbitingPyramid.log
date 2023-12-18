@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'Source.cpp')
+  
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(166,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(201,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(202,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(209,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(210,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(217,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(218,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(225,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(226,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(234,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(235,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(337,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(338,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(342,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(343,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(345,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(346,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Source.cpp(355,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OrbitingPyramid.vcxproj -> C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Debug\OrbitingPyramid.exe

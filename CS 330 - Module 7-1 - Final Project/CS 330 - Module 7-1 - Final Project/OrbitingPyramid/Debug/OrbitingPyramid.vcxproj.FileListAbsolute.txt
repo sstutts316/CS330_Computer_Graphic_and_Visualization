@@ -1,0 +1,8 @@
+C:\Users\sstut\source\repos\OrbitingPyramid\Debug\OrbitingPyramid.exe
+C:\Users\sstut\source\repos\OrbitingPyramid\OrbitingPyramid\Debug\OrbitingPyramid.exe
+C:\Users\sstut\source\repos\OrbitingPyramid2\OrbitingPyramid\Debug\OrbitingPyramid.exe
+C:\Users\sstut\source\repos\OrbitingPyramid2\OrbitingPyramid2\OrbitingPyramid\Debug\OrbitingPyramid.exe
+C:\Users\sstut\source\repos\CS 330 - Module 5-5 Milestone - Texturing Objects in a 3D Scene\CS 330 - Module 5-5 Milestone - Texturing Objects in a 3D Scene\OrbitingPyramid\Debug\OrbitingPyramid.exe
+C:\Users\sstut\source\repos\CS 330 - Module 6-5 Milestone - Lighting Complex Objects\CS 330 Module 6-5 Milestone - Lighting Complex Objects\OrbitingPyramid\Debug\OrbitingPyramid.exe
+C:\Users\sstut\source\repos\CS 330 - Module 6-5 Milestone - Lighting Complex Objects\CS 330 - Module 7-1 - Project\OrbitingPyramid\Debug\OrbitingPyramid.exe
+C:\Users\sstut\source\repos\CS 330 - Module 7-1 - Final Project\CS 330 - Module 7-1 - Final Project\OrbitingPyramid\Debug\OrbitingPyramid.exe
