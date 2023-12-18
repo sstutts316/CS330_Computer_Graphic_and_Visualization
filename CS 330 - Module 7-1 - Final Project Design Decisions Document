@@ -1,0 +1,56 @@
+Steven Stutts
+CS 330-J7053
+Module 7-1 – Final Project Design Decisions Document
+Justify development choices for your 3D scene:
+Object Selection:
+•	I chose a pyramid for my main object. The choice of a pyramid is interesting as it's a simple geometric shape with distinct faces, making it suitable for demonstrating lighting effects.
+•	The use of multiple point lights and a spotlight further enhances the visual appeal and allows for showcasing various lighting scenarios.
+Lighting and Shading:
+•	The scene includes directional lighting, point lights, and a spotlight. This choice allows for demonstrating different types of lighting and their impact on materials.
+•	Specular and diffuse maps are utilized for realistic material representation, contributing to the overall visual quality.
+Camera Movement:
+•	The implementation of a camera class provides flexibility and ease of control. The camera allows users to navigate through the 3D scene using keyboard inputs for forward, backward, left, and right movements.
+•	Mouse input controls the camera's orientation, enabling users to look around the scene freely.
+
+
+
+Modularity and Reusability:
+•	The use of shaders (lightingShader and lightPyramidShader) promotes modularity, separating concerns related to object rendering and lighting calculations.
+•	A separate function (loadTexture) is employed for loading textures, promoting code organization and reusability.
+Explain how a user can navigate your 3D scene:
+Keyboard Controls:
+•	W: Move the camera forward
+•	A: Move the camera left
+•	S: Move the camera backward
+•	D: Move the camera right
+•	Esc: Close the application
+Mouse Controls:
+•	Mouse movement controls the camera's orientation. Users can look around the scene by moving the mouse.
+•	The first-person camera approach enhances the immersive experience.
+Mouse Scroll:
+•	The scroll wheel controls the zoom level of the camera.
+Explain the custom functions in your program:
+processInput Function:
+•	Handles keyboard input for camera movement (W, A, S, D keys).
+•	Promotes clean code by encapsulating input processing logic in a separate function.
+framebuffer_size_callback Function:
+•	Adjusts the viewport when the window is resized, ensuring the rendering remains consistent.
+•	Enhances responsiveness to changes in the window size.
+mouse_callback Function:
+•	Manages mouse movement to control the camera's orientation.
+•	Improves code readability by encapsulating mouse input logic.
+scroll_callback Function:
+•	Handles mouse scroll events to zoom in/out the camera.
+•	Encapsulates scroll input logic, making the code more modular.
+loadTexture Function:
+•	Loads textures from image files and sets texture parameters.
+•	Promotes code reuse by providing a modular way to handle texture loading.
+In summary, the project reflects thoughtful choices in object selection, lighting configurations, and camera controls. The use of modular functions enhances code organization and reusability, contributing to a well-structured and interactive 3D scene.
+
+
+
+
+
+Reference
+De Vries, J. (2020). Learn OpenGL: Learn Modern OpenGL Graphics Programming in a Step-by-step Fashion.
+	https://learnopengl.com/Getting-started/OpenGL.
